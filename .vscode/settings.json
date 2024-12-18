@@ -1,5 +1,7 @@
 {
     "conventionalCommits.scopes": [
-        "Añadir notebook sobre diccionarios"
+        "Añadir notebook sobre diccionarios",
+        "Ímagenes",
+        "Imágenes"
     ]
 }
